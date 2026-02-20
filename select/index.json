@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "10年前",
+  "base_artist": "KOWICHI",
+  "createdAt": "2026-02-20T05:20:14.068879Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "EX01.10年前　全てのはじまり",
+      "artist": "一事が万事",
+      "has_synced": true,
+      "path": "select/01_EX01.10年前_全てのはじまり_一事が万事.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tr0.『10年前、天才退魔師に敗北する大妖魔』",
+      "artist": "一事が万事",
+      "has_synced": true,
+      "path": "select/02_Tr0.『10年前、天才退魔師に敗北する大妖魔』_一事が万事.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "10年前",
+      "artist": "KOWICHI",
+      "has_synced": false,
+      "path": "select/pl_01_10年前_KOWICHI.txt"
+    }
+  ]
+}
